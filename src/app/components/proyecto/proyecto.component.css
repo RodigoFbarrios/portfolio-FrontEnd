@@ -1,6 +1,6 @@
 .row{
     padding: 20px;
-    background-color: rgba(255, 166, 0, 0.89);
+    background-color:  rgb(5, 3, 22);   
 }
 
 .contenedor{
@@ -15,4 +15,12 @@
 .img-proyecto{
     box-shadow: 10px 10px 30px #000000;
     box-shadow: ejeX ejeY difumasion color;
+}
+
+h1{
+    color:rgba(0, 217, 255, 0.747);
+}
+
+.proyecto{
+    color: aquamarine;
 }

@@ -2,9 +2,16 @@
     padding: 20px;
 }
 div{
-    background: rgba(255, 166, 0, 0.89);
+    background: rgb(5, 3, 22);
 }
 
-h1, h3{
+h1{
     display: inline;
+    color:rgba(0, 217, 255, 0.747);
+}
+.edu{
+    color: aquamarine;
+}
+.estudio{
+    color: aquamarine;
 }
