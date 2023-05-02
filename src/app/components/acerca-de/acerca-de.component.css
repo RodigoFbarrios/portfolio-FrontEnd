@@ -30,6 +30,7 @@ div {
 }
 
 h1{
+    display: contents;
     color: rgba(0, 217, 255, 0.747);
     font-weight: bold;
     margin-top: 40%;
